@@ -2,9 +2,27 @@
 
 ##How to use
 
-1. Install dnspython
-```bash
-py -m pip install dnspython```
+1. Clone the repo
 
-3. Create file 
+    ```bash
+   git clone https://github.com/Kasper886/IP-Checker.git
+   cd IP-Checker
+   ```
+
+3. Install dnspython
+
+```bash
+py -m pip install dnspython
+```
+
+3. Create file networks.txt
+   Put each subnet in separate line (see example)
+
+4. Run script
+
+   ```bash
+   py IPChexker.py
+   ```
+
+5. In fue minutes you will see the csv file with subnetes, listed in spam list.
 
