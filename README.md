@@ -1,6 +1,6 @@
-#This is a simple IPv4 checker for blacklists.
+#This is a simple IPv4 checker for blacklists.#
 
-##How to use
+##How to use##
 
 1. Clone the repo
 
