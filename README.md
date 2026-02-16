@@ -11,9 +11,9 @@
 
 3. Install dnspython
 
-```bash
-py -m pip install dnspython
-```
+   ```bash
+   py -m pip install dnspython
+   ```
 
 3. Create file networks.txt
    Put each subnet in separate line (see example)
@@ -21,8 +21,8 @@ py -m pip install dnspython
 4. Run script
 
    ```bash
-   py IPChexker.py
+   py IPChecker.py
    ```
 
-5. In fue minutes you will see the csv file with subnetes, listed in spam list.
+5. In few minutes you will see the csv file with subnetes, listed in spam list.
 
