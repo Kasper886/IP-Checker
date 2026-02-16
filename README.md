@@ -11,9 +11,9 @@
 
 ### 2. Install dnspython
 
-   ```bash
-   py -m pip install dnspython
-   ```
+    ```bash
+    py -m pip install dnspython
+    ```
 
 ### 3. Create file networks.txt
    Put each subnet in separate line (see example)
